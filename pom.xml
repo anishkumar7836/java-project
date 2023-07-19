@@ -16,7 +16,6 @@
 
 	<modules>
 		<module>demo</module>
-		<module>demo2</module>
 	</modules>
 
 </project>
